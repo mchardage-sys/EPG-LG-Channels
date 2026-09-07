@@ -55,7 +55,7 @@ try:
 
         with open("lg_channels_us.m3u", "w", encoding="utf-8") as f_m3u:
             f_m3u.write(
-                '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml"\n'
+                '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mchardage-sys/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml"\n'
             )
 
             for categoria in dados.get("categories", []):
