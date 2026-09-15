@@ -71,7 +71,7 @@ https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
 https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="heartlandclassic_hrtcl_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/heartlandclassic_lgus/heartland_logo_400x200.png" group-title="Drama",Heartland
 https://amg00353-amg00353c68-lg-us-9888.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-heartlandclassic-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="FREQ938" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/938-400x200.png" group-title="Drama",BBC Drama
+#EXTINF:-1 tvg-id="FREQ938" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/938-400x200.png" group-title="Drama",BBC Drama Classics
 https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ796" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/796-400x200.png" group-title="Drama",BritBox Mysteries
 https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
