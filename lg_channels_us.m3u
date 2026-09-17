@@ -61,8 +61,6 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99992285" tvg-logo="https://image.xumo.com/v1/channels/channel/99992285/400x200.png?type=white_cropped" group-title="TV & Movies",Xumo Free Westerns
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="us-dhx_degrassi_1" tvg-logo="http://img.platform.wurl.dev/channel/715/lg/50c09d/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",Degrassi
-https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amc_allblk_gems_1" tvg-logo="http://img.platform.wurl.dev/channel/1180/lg/f13d7e/LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",AllBlk Gems
 https://wurlrainbowmedia.global.transmit.live/hls/68c49711192b2a4e99da1da0/v1/amc_allblk_gems_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ888" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png" group-title="TV & Movies",Alien Nation by DUST
@@ -151,8 +149,6 @@ https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playli
 https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="sportsgridus_sgridus_US" tvg-logo="https://d21yoskxc561nh.cloudfront.net/SG-LIVE-BLACK-ON-ALPHA-OCT-800X200.png" group-title="Sports",SportsGrid
 https://sportsgrid-lg-us.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgus/CDN/master.m3u8
-#EXTINF:-1 tvg-id="usatv_usatv_US" tvg-logo="https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png" group-title="Sports",Team USA TV
-https://amg01416-amg01416c4-lg-us-4203.playouts.now.amagi.tv/playlist/amg01416-faststudios-usatvall-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzsports_ryzspo_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png" group-title="Sports",RYZ Sports
 https://amg27125-amg27125c1-amgplt0023.playout.now3.amagi.tv/playlist/amg27125-amg27125c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-stadium_gracenote" tvg-logo="http://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Stadium
@@ -239,8 +235,6 @@ https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/68b729088da3641997c664b0/v1/aenetworks_ae_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-janson_todayshomeowner_1" tvg-logo="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png" group-title="Lifestyle",Today's Home
 https://wurljansonmedia.global.transmit.live/hls/67910ced0b2848c81efe74d1/playlist.m3u8
-#EXTINF:-1 tvg-id="gotraveler_amg09501c1eng_US" tvg-logo="https://preview-amagistv-amg09501-anvir1.now.amagi.tv/Images/S3/Gotraveler_800x200.png" group-title="Lifestyle",GoTraveler
-https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="pbsgenealogy_pbsgy_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBS_Geno_logo_400x200.png" group-title="Lifestyle",PBS Genealogy
 https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-bbc_antiquesroadshowuk_1" tvg-logo="http://img.platform.wurl.dev/channel/905/lg/c20695/LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Antiques Roadshow UK
