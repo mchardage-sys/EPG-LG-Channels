@@ -271,6 +271,8 @@ https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetwor
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="99993001" tvg-logo="https://image.xumo.com/v1/channels/channel/99993001/400x200.png?type=white_cropped" group-title="Reality",Cheaters
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="99993104" tvg-logo="https://image.xumo.com/v1/channels/channel/99993104/400x200.png?type=white_cropped" group-title="Reality",Untold Stories of the ER
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="theosbournes_alreallgus_US" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TheOsbournes-LG_LOGO_400x200.png" group-title="Reality",The Osbournes
 https://banijay-allreal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-allreal-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="matchedmarriedmeet_aemmm_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Matched_Married_Meet_Channel_Logo_Image_200x800.png" group-title="Reality",Matched Married Meet
@@ -285,6 +287,8 @@ https://linear-541.frequency.stream/dist/lg-us/541/hls/master/playlist.m3u8
 https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ghosthunters_gthtr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png" group-title="Reality",Ghost Hunters
 https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="99993103" tvg-logo="https://image.xumo.com/v1/channels/channel/99993103/400x200.png?type=white_cropped" group-title="Reality",Paranormal Chronicles
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="99992520" tvg-logo="https://image.xumo.com/v1/channels/channel/99992520/400x200.png?type=white_cropped" group-title="Westerns",Western Bound Wrangled by INSP
 https://d1bl6tskrpq9ze.cloudfront.net/hls/cw.m3u8
 #EXTINF:-1 tvg-id="us-scripps_gritxtra_1" tvg-logo="http://img.platform.wurl.dev/channel/1208/lg/049016/LG-Logo-PNG-100x100_v1.png" group-title="Westerns",Grit Xtra
