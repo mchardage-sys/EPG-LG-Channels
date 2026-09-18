@@ -149,6 +149,8 @@ https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playli
 https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="sportsgridus_sgridus_US" tvg-logo="https://d21yoskxc561nh.cloudfront.net/SG-LIVE-BLACK-ON-ALPHA-OCT-800X200.png" group-title="Sports",SportsGrid
 https://sportsgrid-lg-us.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgus/CDN/master.m3u8
+#EXTINF:-1 tvg-id="usatv_usatv_US" tvg-logo="https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png" group-title="Sports",Team USA TV
+https://amg01416-amg01416c4-lg-us-4203.playouts.now.amagi.tv/playlist/amg01416-faststudios-usatvall-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzsports_ryzspo_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png" group-title="Sports",RYZ Sports
 https://amg27125-amg27125c1-amgplt0023.playout.now3.amagi.tv/playlist/amg27125-amg27125c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-stadium_gracenote" tvg-logo="http://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Stadium
