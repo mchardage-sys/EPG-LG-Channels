@@ -157,8 +157,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/am
 https://amg02278-amg02278c6-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02278-amg02278c6-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_rugby_rugbypasstv_1" tvg-logo="http://img.platform.wurl.dev/channel/1872/lg/c984c0/LG-Logo-PNG-100x100_v1.png" group-title="Sports",RugbyPass TV
 https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-fubotv_fubo_sports_network_1" tvg-logo="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Fubo Sports
-https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-eleven_bowlingtv_1" tvg-logo="http://img.platform.wurl.dev/channel/2195/lg/c55840/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Bowling TV
 https://wurltripleb.global.transmit.live/hls/695eb4986d2aa32b698bbf81/v1/eleven_bowlingtv_1/lg_us/latest/main/hls/bowl.m3u8
 #EXTINF:-1 tvg-id="espn8ocho_amg00497c24_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png" group-title="Sports",ESPN 8: The Ocho
