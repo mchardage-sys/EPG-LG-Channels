@@ -137,6 +137,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-l
 https://linear-11.frequency.stream/dist/lg-us/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalhockeyleague_nhlpcr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png" group-title="Sports",NHL
 https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
+https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
+#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
+https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
 #EXTINF:-1 tvg-id="FREQ1006-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/pgatour/channels/1006-400x200.png" group-title="Sports",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="tennischannelus_tncus_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/white_800X200_T2_Logo_4.png" group-title="Sports",T2
@@ -159,6 +163,8 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/am
 https://amg02278-amg02278c6-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02278-amg02278c6-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_rugby_rugbypasstv_1" tvg-logo="http://img.platform.wurl.dev/channel/1872/lg/c984c0/LG-Logo-PNG-100x100_v1.png" group-title="Sports",RugbyPass TV
 https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="us-fubotv_fubo_sports_network_1" tvg-logo="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-eleven_bowlingtv_1" tvg-logo="http://img.platform.wurl.dev/channel/2195/lg/c55840/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Bowling TV
 https://wurltripleb.global.transmit.live/hls/695eb4986d2aa32b698bbf81/v1/eleven_bowlingtv_1/lg_us/latest/main/hls/bowl.m3u8
 #EXTINF:-1 tvg-id="espn8ocho_amg00497c24_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png" group-title="Sports",ESPN 8: The Ocho
