@@ -331,6 +331,8 @@ https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandc
 https://wurllawnewz.global.transmit.live/hls/6a5e973c0087b16677759edb/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99992282" tvg-logo="https://image.xumo.com/v1/channels/channel/99992282/400x200.png?type=white_cropped" group-title="Game Shows",Family Feud
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="buzzr_buzzr_US" tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="Game Shows",Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="thepriceisright_tpirt_US" tvg-logo="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png" group-title="Game Shows",The Price Is Right
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_gameshowchannnel_1" tvg-logo="http://img.platform.wurl.dev/channel/416/lg/b2b042/LG-Logo-PNG-100x100_v1.png" group-title="Game Shows",Game Show Central
