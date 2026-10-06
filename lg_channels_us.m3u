@@ -323,7 +323,7 @@ https://aenetworks.global.transmit.live/hls/699df462a2ce108b1d2557f3/v1/ae_netwo
 https://amg00276-aenetwork-amg00276c26-lg-us-7268.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-livepdpresents-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-lawandcrime_samsung" tvg-logo="http://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png" group-title="Crime",Law&Crime
 https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-scripps_courttv_4" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" group-title="Crime",Court TV
+#EXTINF:-1 tvg-id="us-scripps_courttv_4" tvg-logo="http://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-Logo-PNG-100x100_v2.png" group-title="Crime",Court TV
 https://wurllawnewz.global.transmit.live/hls/6a5e973c0087b16677759edb/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="buzzr_buzzr_US" tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="Game Shows",Buzzr
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
