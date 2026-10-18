@@ -225,8 +225,6 @@ https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-a
 https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="homefulus_hmflus_US" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/Homeful_200pxHigh_LG_ChannelAssets_White.png" group-title="Lifestyle",Homeful
 https://bam-homeful-usa-lg-us.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-homeful-us-lg/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="us-jukin_homefamilyhandyman_1" tvg-logo="http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-Logo-PNG-100x100_v3.png" group-title="Lifestyle",At Home with Family Handyman
-https://tmbijukin.global.transmit.live/hls/68d5b949f1814c6c39825027/v1/jukin_homefamilyhandyman_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_tinyhousenation_1" tvg-logo="http://img.platform.wurl.dev/channel/675/lg/368e9e/LG-Logo-PNG-100x100_v3.png" group-title="Lifestyle",Tiny House Nation
 https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetworks_tinyhousenation_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_ae_1" tvg-logo="http://img.platform.wurl.dev/channel/285/lg/ae0d5e/LG-Logo-PNG-100x100_v3.png" group-title="Lifestyle",Home.Made.Nation
