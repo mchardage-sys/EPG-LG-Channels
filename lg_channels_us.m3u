@@ -219,10 +219,10 @@ https://amg17902-amg17902c1-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-a
 https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="cookscountrychannel_ccch_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png" group-title="Lifestyle",Cook's Country Channel
 https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="emerillagassechannel_amg17902c2_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/EmerilLagasseChannel_800x200WhiteLogo_LGTV.png" group-title="Lifestyle",Emeril Lagasse
-https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-food" tvg-logo="http://img.platform.wurl.dev/channel/140/lg/efd2cc/LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Hungry
 https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="emerillagassechannel_amg17902c2_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/EmerilLagasseChannel_800x200WhiteLogo_LGTV.png" group-title="Lifestyle",Emeril Lagasse
+https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="homefulus_hmflus_US" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/Homeful_200pxHigh_LG_ChannelAssets_White.png" group-title="Lifestyle",Homeful
 https://bam-homeful-usa-lg-us.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-homeful-us-lg/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="us-jukin_homefamilyhandyman_1" tvg-logo="http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-Logo-PNG-100x100_v3.png" group-title="Lifestyle",At Home with Family Handyman
