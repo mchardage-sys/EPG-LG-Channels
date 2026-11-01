@@ -179,8 +179,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/am
 https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="daznringside_dznrs_US" tvg-logo="https://d2epwduv7bstma.cloudfront.net/Dazn_Ringside/LG/DAZN_RINGSIDE_WHITE_800x264_TV.png" group-title="Sports",DAZN Ringside
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="watchaew_amg16221c1_us" tvg-logo="https://preview-amagicloud-aew-automation-aew.cloudport.amagi.tv/Images/S3/WATCH-AEW-400x200.png" group-title="Sports",WatchAEW
-https://amg16221-amg16221c1-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg16221-amg16221c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ253" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png" group-title="Sports",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="formula1tv_frla1_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/F1_Channel_800x200_white.png" group-title="Sports",F1 Channel
