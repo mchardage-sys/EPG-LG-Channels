@@ -39,7 +39,7 @@ https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="99992284" tvg-logo="https://image.xumo.com/v1/channels/channel/99992284/400x200.png?type=white_cropped" group-title="TV & Movies",Hi-Yah!
 https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_holidaymoviefavorites_1" tvg-logo="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",Lifetime Movie Favorites
+#EXTINF:-1 tvg-id="us-aenetworks_holidaymoviefavorites_1" tvg-logo="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-Logo-PNG-100x100_v3.png" group-title="TV & Movies",Lifetime Movie Favorites
 https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetworkus_mytimea_US" tvg-logo="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png" group-title="TV & Movies",MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
@@ -343,8 +343,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="bbcearth_bbce5_US" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCEarth/LG_BBC_EARTH_LOGO_WHITE_800x200.png" group-title="Nature",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="wildearthus_wildearthus_US" tvg-logo="https://d2rx6itp6voihr.cloudfront.net/Images/S3/WE_LOGO_LIGHT_LGPlus_V2.png" group-title="Nature",WildEarth
-https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="bamlovenatureenglish_bamloveeng_US" tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/LoveNature_AllWhite_Logo_800x200.png" group-title="Nature",Love Nature
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
 #EXTINF:-1 tvg-id="99992106" tvg-logo="https://image.xumo.com/v1/channels/channel/99992106/400x200.png?type=white_cropped" group-title="Nature",NatureVision
