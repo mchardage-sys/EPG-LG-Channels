@@ -89,18 +89,16 @@ https://linear-874.frequency.stream/dist/lg-us/874/hls/master/playlist.m3u8
 https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="baywatchlgus_baywhlgus_US" tvg-logo="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png" group-title="Entertainment",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="hersphere_movsf_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png" group-title="Entertainment",Hersphere
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ896" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png" group-title="Entertainment",Dove Channel
 https://linear-896.frequency.stream/dist/lg-us/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="arewethereyetlgus_rwthytlgus_US" tvg-logo="https://db6iftd8li11q.cloudfront.net/AreWeThereYet/AreWeThereYet_LGLaunch_Guide_Logo_White_800x200.png" group-title="Entertainment",Are We There Yet
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_bouncexl_1" tvg-logo="http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ebonytvtubi_mvsbk_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png" group-title="Entertainment",Ebony TV
-https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="portraittv_amg30859c1_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png" group-title="Entertainment",Portrait TV
 https://amg30859-amg30859c1-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg30859-amg30859c1-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-id="hersphere_movsf_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png" group-title="Entertainment",Hersphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="historyandwarfarenowmainus_amg01515c89_us" tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/LG_HistoryWarfare_Logo_400x200.png" group-title="Entertainment",History and Warfare
 https://amg01515-amg01515c89-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01515-amg01515c89-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="bbctopgear8minother_bbctgsf_US" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png" group-title="Entertainment",BBC Top Gear
@@ -121,10 +119,10 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ901" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/yu-gi-oh-400x200.png" group-title="Entertainment",Yu-Gi-Oh!
 https://linear-901.frequency.stream/dist/lg-us/901/hls/master/playlist_lg.m3u8
-#EXTINF:-1 tvg-id="abcentertains_entert_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/abcau/Lglogos/ABC-Entertains-Logo-400x200px.png" group-title="Entertainment",ABC Entertains Australia
-https://amg00672-amg00672c9-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00672-amg00672c9-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="99992283" tvg-logo="https://image.xumo.com/v1/channels/channel/99992283/400x200.png?type=white_cropped" group-title="Entertainment",It's Showtime at the Apollo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="abcentertains_entert_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/abcau/Lglogos/ABC-Entertains-Logo-400x200px.png" group-title="Entertainment",ABC Entertains Australia
+https://amg00672-amg00672c9-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00672-amg00672c9-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="antiquesroadshow_pbsdc_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png" group-title="Entertainment",Antiques Roadshow
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="dinos_dinos_US" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/Dinos/LG_Dinos/LG_DINOS_247_CHANNEL_ASSETSLG-Logo-PNG-800x200-(REV).png" group-title="Entertainment",Dinos 24/7
