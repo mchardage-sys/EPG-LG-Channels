@@ -379,5 +379,5 @@ https://wurl-answer-media-llc.global.transmit.live/hls/6a0759874041adfca30b6a63/
 https://aenetworks.global.transmit.live/hls/68b77b1a8da3641997c664ec/v1/aenetworks_modernmarvels_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-cinedigm_entertainment_corp_historian_1" tvg-logo="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png" group-title="Documentary",Historian
 https://wurlcineverse.global.transmit.live/hls/6994b486ba0f43fa0d7cf49d/v1/cinedigm_entertainment_corp_historian_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="yulelogtvbychristmasplus_amg02042c33eng_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/campfire/campfire-channel-400x200-lg-channel-logo-white.png" group-title="Ambiance",Campfire Channel
+#EXTINF:-1 tvg-id="yulelogtvbychristmasplus_amg02042c33eng_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/YL-LOGO.png" group-title="Ambiance",Yule Log TV
 https://amg02042-amg02042c33-lg-us-10470.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-yulelogtvbychristmasplus-lgus/playlist.m3u8
