@@ -25,6 +25,8 @@ https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_i
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="99992272" tvg-logo="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped" group-title="TV & Movies",FilmRise Free Movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="freemoviesplus_amg02042c1eng_US" tvg-logo="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" group-title="TV & Movies",Free Movies Plus
+https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_80s_1" tvg-logo="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT
 https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_classics_2" tvg-logo="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT: Classics
