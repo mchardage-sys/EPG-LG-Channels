@@ -25,8 +25,6 @@ https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_i
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="99992272" tvg-logo="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped" group-title="TV & Movies",FilmRise Free Movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="freemoviesplus_amg02042c1eng_US" tvg-logo="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" group-title="TV & Movies",Free Movies Plus
-https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_80s_1" tvg-logo="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT
 https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_classics_2" tvg-logo="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT: Classics
@@ -81,6 +79,8 @@ https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
 https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="otspr_otspr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png" group-title="Drama",Outersphere
 https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="FREQ896" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png" group-title="Entertainment",Dove Channel
+https://linear-896.frequency.stream/dist/lg-us/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="tribeca_tribe_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" group-title="Entertainment",Tribeca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ874" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png" group-title="Entertainment",Horror by ALTER
@@ -89,8 +89,6 @@ https://linear-874.frequency.stream/dist/lg-us/874/hls/master/playlist.m3u8
 https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="baywatchlgus_baywhlgus_US" tvg-logo="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png" group-title="Entertainment",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="FREQ896" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png" group-title="Entertainment",Dove Channel
-https://linear-896.frequency.stream/dist/lg-us/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="arewethereyetlgus_rwthytlgus_US" tvg-logo="https://db6iftd8li11q.cloudfront.net/AreWeThereYet/AreWeThereYet_LGLaunch_Guide_Logo_White_800x200.png" group-title="Entertainment",Are We There Yet
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_bouncexl_1" tvg-logo="http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",Bounce XL
