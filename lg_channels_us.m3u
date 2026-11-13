@@ -157,8 +157,6 @@ https://amg01416-amg01416c4-lg-us-4203.playouts.now.amagi.tv/playlist/amg01416-f
 https://amg27125-amg27125c1-amgplt0023.playout.now3.amagi.tv/playlist/amg27125-amg27125c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-stadium_gracenote" tvg-logo="http://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Stadium
 https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="flosportschannel_amg02278c7_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/flosports/FloSportsChannelLogoWhite400x200.png" group-title="Sports",FloSports Channel
-https://amg02278-amg02278c7-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg02278-amg02278c7-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amc_overtime_1" tvg-logo="http://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Overtime
 https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/amc_overtime_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="willowsports_wplus_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/willow_sports/willow_logo_horizontal_white_400x200.png" group-title="Sports",Willow Sports
